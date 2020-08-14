@@ -1,6 +1,6 @@
 主要分享一些学习资料和博主的一些经历，会收录很多面试题目，后期也会整理成一个系列。
 
-**若存在链接失效加我微信把，第一时间把书籍发给你，记得备注来意哦**,微信号：**zijietiaodongpro**  ,哈哈哈就是**字节跳动**pro，因为博主有个愿望，能够去字节跳动实习工作，哈哈哈，所以当初改名的时候就取名叫zijietiaodongpro,哎可惜的是zijietiaodong被人用了，可惜老。我就只能加一个pro了。如果觉得还可以欢迎**Star，分享**哦，博主在此谢谢大家啦。祝好！
+**若存在链接失效加我微信把，第一时间把资料发给你，记得备注来意哦**,微信号：**zijietiaodongpro**  ,哈哈哈就是**字节跳动**pro，因为博主有个愿望，能够去字节跳动实习工作，哈哈哈，所以当初改名的时候就取名叫zijietiaodongpro,哎可惜的是zijietiaodong被人用了，可惜老。我就只能加一个pro了。如果觉得还可以欢迎**Star，分享**哦，博主在此谢谢大家啦。祝好！
 
 这里推荐一个优秀的公众号【**五角钱的程序员**】，博主是一名在读计算机技术硕士研究生，里面有程序员必修内功，算法，python数据分析，linux,Java，机器学习，深度学习，自然语言处理、面试宝典，面试经验等等，还有博主的一些**经历与感悟**。我们一起成长，一起学习。一直纯真着，善良着，温情地热爱生活。
 
@@ -16,7 +16,7 @@
 
 - [美团面试](#美团面试)
 
-  - [java](##java)
+  - [java](##美团java)
 
 - [大数据](#大数据)
  - [hadoop](#hadoop)
@@ -29,7 +29,7 @@
 
 # 美团面试
 
-## java
+## 美团java
 - [聊到JVM（还怕面试官问JVM吗？）](https://mp.weixin.qq.com/s/sc00BVelNNMmIuNqwx3acA)
 - [面试官问我Linux下常见网络命令](https://mp.weixin.qq.com/s/yLUGFeiWncIFY9LJ9mBJeg)
 - [这有一把钥匙，打开MySQL死锁问题！](https://mp.weixin.qq.com/s/LQ09QwpAe9hSxVDVsmeX-A)
